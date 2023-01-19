@@ -9,3 +9,7 @@
 5.Hidding the lost seen 
 
 6. Not hide the Lost Seen 
+
+7. Adding the Audio call
+
+8. Adding the Video call
